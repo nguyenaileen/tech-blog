@@ -1,37 +1,43 @@
 [
   {
-    "name": "Some Cool Thoughts",
-    "description": "Some Cool Thoughts",
+    "name": "Pigeon",
+    "location": "Oakland, CA",
+    "description": "Cool bird!",
     "date_created": "03-15-2024",
     "image_url":"https://res.cloudinary.com/dag7i28e3/image/upload/v1712022941/wingspan/file_t6jzmr.png"
   },
   {
-    "name": "My tech post ",
-    "description": "Some Cool Thoughts",
+    "name": "Dove",
+    "location": "Piedmont, CA",
+    "description": "A bird!",
     "date_created": "02-15-2024",
     "image_url":"https://res.cloudinary.com/dag7i28e3/image/upload/v1712022941/wingspan/file_t6jzmr.png"
   },
   {
-    "name": "tech Post",
-    "description": "Some Cool Thoughts",
+    "name": "Seagull",
+    "location": "San Francisco, CA",
+    "description": "Cool bird!",
     "date_created": "03-15-2024",
     "image_url":"https://res.cloudinary.com/dag7i28e3/image/upload/v1712022941/wingspan/file_t6jzmr.png"
   },
   {
-    "name": "my tech thoughts",
-    "description": "Some Cool Thoughts",
+    "name": "Condor",
+    "location": "Santa Cruz, CA",
+    "description": "Big bird!",
     "date_created": "01-15-2024",
     "image_url":"https://res.cloudinary.com/dag7i28e3/image/upload/v1712022941/wingspan/file_t6jzmr.png"
   },
   {
-    "name": "what is going on",
-    "description": "SSome Cool Thoughts",
+    "name": "Hummingbird",
+    "location": "Vallejo, CA",
+    "description": "Small bird!",
     "date_created": "03-11-2024",
     "image_url":"https://res.cloudinary.com/dag7i28e3/image/upload/v1712022941/wingspan/file_t6jzmr.png"
   },
   {
-    "name": "thoughts",
-    "description": "Some Cool Thoughts",
+    "name": "Woodpecker",
+    "location": "Oakland, CA",
+    "description": "Loud bird!",
     "date_created": "03-30-2024",
     "image_url":"https://res.cloudinary.com/dag7i28e3/image/upload/v1712022941/wingspan/file_t6jzmr.png"
   }
