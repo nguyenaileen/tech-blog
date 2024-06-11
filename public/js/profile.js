@@ -6,22 +6,22 @@ const newFormHandler = async (event) => {
   const description = document.querySelector('#bird-desc').value.trim();
   const picture = document.querySelector('#imageFile');
   const formData = new FormData();
-  formData.append("name", name);
-  formData.append("location", location);
-  formData.append("description", description);
-  formData.append("picture", picture.files[0]);
+  formData.append('name', name);
+  formData.append('location', location);
+  formData.append('description', description);
+  formData.append('picture', picture.files[0]);
 
   // if (name && location && description && picture) {
-    const response = await fetch(`/api/posts`, {
-      method: 'POST',
-      body: formData,
-    });
+  const response = await fetch(`/api/posts`, {
+    method: 'POST',
+    body: formData,
+  });
 
-    if (response.ok) {
-      document.location.replace('/profile');
-    } else {
-      alert('Failed to create post');
-    }
+  if (response.ok) {
+    document.location.replace('/profile');
+  } else {
+    alert('Failed to create post');
+  }
   // }
 };
 
