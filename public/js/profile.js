@@ -1,9 +1,9 @@
 const newFormHandler = async (event) => {
   event.preventDefault();
 
-  const name = document.querySelector('#bird-name').value.trim();
-  const location = document.querySelector('#bird-location').value.trim();
-  const description = document.querySelector('#bird-desc').value.trim();
+  const name = document.querySelector('#post-name').value.trim();
+  const location = document.querySelector('#post-location').value.trim();
+  const description = document.querySelector('#post-desc').value.trim();
   const picture = document.querySelector('#imageFile');
   const formData = new FormData();
   formData.append('name', name);
