@@ -1,18 +1,37 @@
-# Wingspan
-Project Description:
+# Tech Blog
 
-Wingspan allows birders to log and share their sightings with other birders. Users upload an image, note location, species, and a description.
+# Table of Contents
 
-Through the birdfeed, birders can see other posts and comment.
+Description
+Demo
+Features
+Installation
+Usage
+Resources
 
-We used a combination of Multer and Cloudinary to store images in our database. 
+# Description
 
-Since our project was scaled appropriately, we didn't struggle too much with getting to MVP. We do have high hopes for future implementation. We hope to add a bird bucket list to allow users to note the birds they hope to see one day, use user location instead of self-reporting, display bird facts with use of API.
+A tech blog
 
-Credits:
-Team members - Daniel Laguarta, Aileen Nguyen, Olivia Sue
-https://codepen.io/Ephellon/pen/ojVjEz
-https://www.npmjs.com/package/multer-storage-cloudinary
-https://github.com/johnfyoung/multer-cloudinary/blob/main/public/js/imageUpload.js
-https://www.geeksforgeeks.org/how-to-display-images-using-handlebars-in-node-js/
-https://stackoverflow.com/questions/49416853/adding-comment-features-to-blog-using-express-and-handlebars
+# Demo
+
+[Screenshot of deployed application] (Assets/screenshot.png)
+
+Link to deployed application:https://morning-wave-42888-b02d8bc79325.herokuapp.com/profile
+
+# Features:
+
+Create posts: create posts and have them show up on the home page
+Delete post: delete posts on your profile
+Comments: leave comments on other posts
+
+# Installation
+
+To install this project you can either perform a git clone in your command-line or simply fork your own copy into your Github.
+
+# Usage
+
+To use this project, git clone the repository and run npm i and them npm start
+Or you can visit the deployed application here: https://morning-wave-42888-b02d8bc79325.herokuapp.com/profile
+
+# Resources
