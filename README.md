@@ -35,3 +35,5 @@ To use this project, git clone the repository and run npm i and them npm start
 Or you can visit the deployed application here: https://morning-wave-42888-b02d8bc79325.herokuapp.com/profile
 
 # Resources
+
+Used my project #2 as a base! https://github.com/nguyenaileen/Wingspan
